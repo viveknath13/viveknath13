@@ -21,10 +21,10 @@ Here are some of the technologies and tools I work with:
 ## Projects
 
 Here are a few projects I've worked on:
-
-- [Project 1](https://github.com/viveknath13/NftisCool): A brief description of Project 1.
-- [Project 2](https://github.com/viveknath13/SolidityProject): A brief description of Project 2.
-- [Project 3](https://github.com/viveknath13/decentralized-marketplace-smart-contract): A brief description of Project 3.
+:> These are some projects me if you love this project give it a start 
+- [Project 1](https://github.com/viveknath13/NftisCool): 
+- [Project 2](https://github.com/viveknath13/SolidityProject): 
+- [Project 3](https://github.com/viveknath13/decentralized-marketplace-smart-contract): 
 
 ## GitHub Stats
 
@@ -35,4 +35,4 @@ Here are a few projects I've worked on:
 - [Twitter](https://x.com/VivekNath_eth)
 
 
-Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just chat about tech.
+Thanks for visiting my profile! Feel free to reach out if you want to collaborate or chat about tech.
