@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 - 🌱 I’m currently learning solidity  and exploring different technologies.
 - 🔭 I’m working on various open-source projects and personal development.
-- 👯 I’m looking to collaborate on exciting projects with other developers.
+
 - 📫 How to reach me: [Email](viveknath14701@gmail.com) or [Twitter](https://x.com/VivekNath_eth)
 - ⚡ Fun fact: I enjoy playing cricket and football in my free time.
 
@@ -15,16 +15,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 Here are some of the technologies and tools I work with:
 
-- **Languages:** Solidity, JavaScript
+- **Languages:** Solidity
 
 
 ## Projects
 
 Here are a few projects I've worked on:
-:> These are some projects me if you love this project give it a start 
-- [Project 1](https://github.com/viveknath13/NftisCool): 
-- [Project 2](https://github.com/viveknath13/SolidityProject): 
-- [Project 3](https://github.com/viveknath13/decentralized-marketplace-smart-contract): 
+:> These are some projects if you love this project give it a start 
+
+- [Event ](https://github.com/viveknath13/SolidityProject): 
+- [ Decentralized MarketPlace ](https://github.com/viveknath13/decentralized-marketplace-smart-contract): 
 
 ## GitHub Stats
 
@@ -35,4 +35,4 @@ Here are a few projects I've worked on:
 - [Twitter](https://x.com/VivekNath_eth)
 
 
-Thanks for visiting my profile! Feel free to reach out if you want to collaborate or chat about tech.
+Thanks for visiting my profile! Let me know if you'd like to collaborate or chat about tech.
