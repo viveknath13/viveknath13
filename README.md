@@ -15,13 +15,13 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 Here are some of the technologies and tools I work with:
 
-- **Languages:** Solidity
+- **Languages:** Solidity javascript
 
 
 ## Projects
 
 Here are a few projects I've worked on:
-:> These are some projects if you love this project give it a start 
+:> These are some projects if you love this project ..
 
 - [Event ](https://github.com/viveknath13/SolidityProject): 
 - [ Decentralized MarketPlace ](https://github.com/viveknath13/decentralized-marketplace-smart-contract): 
