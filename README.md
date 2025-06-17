@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 ## About Me
 ... I am msg•sender || Smart contract developer || Web3 world || The future of the internet is Web3🛡
 
-- 🌱 I’m currently learning solidity  and exploring different technologies.
+- 🌱 I’m currently learning Solidity  and exploring different technologies.
 - 🔭 I’m working on various open-source projects and personal development.
 
-- 📫 How to reach me: [Email](viveknath14701@gmail.com) or [Twitter](https://x.com/VivekNath_eth)
+- 📫 Connected with  me:  [Twitter](https://x.com/VivekNath_eth)
 - ⚡ Fun fact: I enjoy playing cricket and football in my free time.
 
 ## Skills
@@ -21,10 +21,10 @@ Here are some of the technologies and tools I work with:
 ## Projects
 
 Here are a few projects I've worked on:
-:> These are some projects if you love this project ..
+These are some projects if you love this one.
 
 - [Event ](https://github.com/viveknath13/SolidityProject): 
-- [ Decentralized MarketPlace ](https://github.com/viveknath13/decentralized-marketplace-smart-contract): 
+- [Decentralised MarketPlace ](https://github.com/viveknath13/decentralized-marketplace-smart-contract): 
 
 ## GitHub Stats
 
@@ -35,4 +35,4 @@ Here are a few projects I've worked on:
 - [Twitter](https://x.com/VivekNath_eth)
 
 
-Thanks for visiting my profile! Let me know if you'd like to collaborate or chat about tech.
+Thanks for visiting my profile! Please let me know if you'd like to collaborate or discuss tech.
