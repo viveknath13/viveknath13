@@ -5,11 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 ## About Me
 ... I am msg•sender || Smart contract developer || Web3 world || The future of the internet is Web3🛡
 
-- 🌱 I’m currently learning Solidity  and exploring different technologies.
-- 🔭 I’m working on various open-source projects and personal development.
-
-- 📫 Connected with  me:  [Twitter](https://x.com/VivekNath_eth)
-- ⚡ Fun fact: I enjoy playing cricket and football in my free time.
+- 🌱 I’m currently learning Solidity  and exploring Blockchain technologies.
 
 ## Skills
 
@@ -32,7 +28,8 @@ These are some projects if you love this one.
 
 ## Connect with Me
 
-- [Twitter](https://x.com/VivekNath_eth)
+- [find me in  X ](https://x.com/VivekNath_eth)
+- [connected in  LinkedIn] (https://www.linkedin.com/in/vivek-nath-396399282/)
 
 
-Thanks for visiting my profile! Please let me know if you'd like to collaborate or discuss tech.
+Thanks for visiting my profile! Please let me know if you'd like to  discuss tech.
