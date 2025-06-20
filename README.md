@@ -28,8 +28,8 @@ These are some projects if you love this one.
 
 ## Connect with Me
 
-- [find me in  X ](https://x.com/VivekNath_eth)
-- [connected in  LinkedIn] (https://www.linkedin.com/in/vivek-nath-396399282/)
+- Here is my  X profile (https://x.com/VivekNath_eth)
+- Here is my  LinkedIn profile  (https://www.linkedin.com/in/vivek-nath-396399282/)
 
 
 Thanks for visiting my profile! Please let me know if you'd like to  discuss tech.
