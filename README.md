@@ -13,9 +13,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 Here are some of the technologies and tools I work with:
 
 - **Languages:** Solidity javascript
-- -**Tool:** Foundry
+- **Tool:** Foundry
 
 <h3 align="center">I’m currently working on Blockchain technology </h3>
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=viveknath13&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/akshay2211&hide_border=true)
 
 ## Projects
 
