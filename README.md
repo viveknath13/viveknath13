@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+Hey+i+am+Vivek+Nath+Goswami)](https://git.io/typing-svg) 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+Hey+i+am+Vivek+Nath+Goswami+👋)](https://git.io/typing-svg) 
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for technology and coding. Here's a little bit about me:
 
