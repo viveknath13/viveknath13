@@ -6,7 +6,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 ... I am msg•sender || Smart contract developer || Web3 world || The future of the internet is Web3🛡
 
 - 🌱 I’m currently learning Solidity  and exploring Blockchain technologies.
-- - 📫 How to reach me:viveknath14701@gmail.com [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Vivek Nath)](https://git.io/typing-svg)
+- - 📫 How to reach me:viveknath14701@gmail.com
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Vivek+Nath+Goswami" alt="Typing SVG" /></a>
 ## Skills
 
 Here are some of the technologies and tools I work with:
