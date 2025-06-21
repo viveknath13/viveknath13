@@ -6,13 +6,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 ... I am msg•sender || Smart contract developer || Web3 world || The future of the internet is Web3🛡
 
 - 🌱 I’m currently learning Solidity  and exploring Blockchain technologies.
+- - 📫 How to reach me:viveknath14701@gmail.com 
 
 ## Skills
 
 Here are some of the technologies and tools I work with:
 
 - **Languages:** Solidity javascript
-
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=edf4f7&vCenter=true&color=green&lines=Hey+👋,+I'm+Vivek Nath)
+<h3 align="center">I’m currently working on Blockchain technology </h3>
 
 ## Projects
 
