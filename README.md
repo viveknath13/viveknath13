@@ -20,11 +20,10 @@ Here are some of the technologies and tools I work with:
 
 ## Projects
 
-Here are a few projects I've worked on:
-These are some projects if you love this one.
+Here are a few projects I've worked on
+<h3>Get all the project here : (https://github.com/viveknath13?tab=repositories) </h3>
 
-- [Event ](https://github.com/viveknath13/SolidityProject): 
-- [Decentralised MarketPlace ](https://github.com/viveknath13/decentralized-marketplace-smart-contract): 
+
 
 ## GitHub Stats
 
